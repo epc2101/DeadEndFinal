@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: e55505e0682ad384c999b78b8d5041b3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: floors300
+    100004: innerwalla300
+    100006: mainA300
+    100008: porch300
+    100010: shedroof300
+    100012: stairs300
+    400000: //RootNode
+    400002: floors300
+    400004: innerwalla300
+    400006: mainA300
+    400008: porch300
+    400010: shedroof300
+    400012: stairs300
+    2300000: floors300
+    2300002: innerwalla300
+    2300004: mainA300
+    2300006: porch300
+    2300008: shedroof300
+    2300010: stairs300
+    3300000: floors300
+    3300002: innerwalla300
+    3300004: mainA300
+    3300006: porch300
+    3300008: shedroof300
+    3300010: stairs300
+    4300000: mainA300
+    4300002: innerwalla300
+    4300004: shedroof300
+    4300006: stairs300
+    4300008: porch300
+    4300010: floors300
+    4300012: mainA200
+    4300014: innerwalla200
+    4300016: shedroof200
+    4300018: porch200
+    4300020: floors200
+    4300022: mainA140
+    4300024: shedroof140
+    4300026: porch140
+    4300028: floors140
+    4300030: mainA120
+    4300032: shedroof120
+    4300034: porch120
+    4300036: floors120
+    4300038: mainA100
+    4300040: shedsides100
+    4300042: Box100
+    4300044: roof100
+    4300046: porch100
+    4300048: shedroof100
+    4300050: shedsides60
+    4300052: roof60
+    4300054: box60
+    4300056: shedroof60
+    4300058: box0
+    4300060: roof0
+    4300062: concrete
+    4300064: concrete0
+    4300066: concrete1
+    4300068: wood2
+    4300070: wood
+    4300072: concrete3
+    4300074: U3DMesh
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

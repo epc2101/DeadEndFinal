@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: a1eefe510a5462c4cb5d521d9ebce932
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: main_Mesh5
+    100002: main_Mesh6
+    100004: main_Mesh7
+    100006: main_Mesh8
+    100008: main_Mesh9
+    100010: pole_Mesh0
+    100012: pole_Mesh1
+    100014: pole_Mesh2
+    100016: pole_Mesh3
+    100018: pole_Mesh4
+    100020: //RootNode
+    100022: wires_Mesh10
+    100024: wires_Mesh11
+    100026: wires_Mesh12
+    100028: wires_Mesh13
+    100030: wires_Mesh14
+    400000: main_Mesh5
+    400002: main_Mesh6
+    400004: main_Mesh7
+    400006: main_Mesh8
+    400008: main_Mesh9
+    400010: pole_Mesh0
+    400012: pole_Mesh1
+    400014: pole_Mesh2
+    400016: pole_Mesh3
+    400018: pole_Mesh4
+    400020: //RootNode
+    400022: wires_Mesh10
+    400024: wires_Mesh11
+    400026: wires_Mesh12
+    400028: wires_Mesh13
+    400030: wires_Mesh14
+    2300000: main_Mesh5
+    2300002: main_Mesh6
+    2300004: main_Mesh7
+    2300006: main_Mesh8
+    2300008: main_Mesh9
+    2300010: pole_Mesh0
+    2300012: pole_Mesh1
+    2300014: pole_Mesh2
+    2300016: pole_Mesh3
+    2300018: pole_Mesh4
+    2300020: wires_Mesh10
+    2300022: wires_Mesh11
+    2300024: wires_Mesh12
+    2300026: wires_Mesh13
+    2300028: wires_Mesh14
+    3300000: main_Mesh5
+    3300002: main_Mesh6
+    3300004: main_Mesh7
+    3300006: main_Mesh8
+    3300008: main_Mesh9
+    3300010: pole_Mesh0
+    3300012: pole_Mesh1
+    3300014: pole_Mesh2
+    3300016: pole_Mesh3
+    3300018: pole_Mesh4
+    3300020: wires_Mesh10
+    3300022: wires_Mesh11
+    3300024: wires_Mesh12
+    3300026: wires_Mesh13
+    3300028: wires_Mesh14
+    4300000: pole_Mesh0
+    4300002: pole_Mesh1
+    4300004: pole_Mesh2
+    4300006: pole_Mesh3
+    4300008: pole_Mesh4
+    4300010: main_Mesh5
+    4300012: main_Mesh6
+    4300014: main_Mesh7
+    4300016: main_Mesh8
+    4300018: main_Mesh9
+    4300020: wires_Mesh10
+    4300022: wires_Mesh11
+    4300024: wires_Mesh12
+    4300026: wires_Mesh13
+    4300028: wires_Mesh14
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

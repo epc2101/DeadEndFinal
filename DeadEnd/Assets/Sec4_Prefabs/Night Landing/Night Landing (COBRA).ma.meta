@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: dbab8921b44759d419a63698eb63f1f7
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: engine1
+    100002: engine_support
+    100004: gun
+    100006: knive
+    100008: left_oar
+    100010: mounted_gun
+    100012: //RootNode
+    100014: objects
+    100016: prop
+    100018: radio
+    100020: right_oar
+    100022: space
+    400000: engine1
+    400002: engine_support
+    400004: gun
+    400006: knive
+    400008: left_oar
+    400010: mounted_gun
+    400012: //RootNode
+    400014: objects
+    400016: prop
+    400018: radio
+    400020: right_oar
+    400022: space
+    2300000: engine1
+    2300002: engine_support
+    2300004: gun
+    2300006: knive
+    2300008: left_oar
+    2300010: mounted_gun
+    2300012: //RootNode
+    2300014: prop
+    2300016: radio
+    2300018: right_oar
+    2300020: space
+    3300000: engine1
+    3300002: engine_support
+    3300004: gun
+    3300006: knive
+    3300008: left_oar
+    3300010: mounted_gun
+    3300012: //RootNode
+    3300014: prop
+    3300016: radio
+    3300018: right_oar
+    3300020: space
+    4300000: boat
+    4300002: engine_support
+    4300004: engine1
+    4300006: prop
+    4300008: left_oar
+    4300010: right_oar
+    4300012: mounted_gun
+    4300014: radio
+    4300016: space
+    4300018: knive
+    4300020: gun
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

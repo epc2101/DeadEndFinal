@@ -1,0 +1,16 @@
+newmtl concrete_block_wall_without_proxy:block
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl concrete_block_wall_without_proxy:column
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00

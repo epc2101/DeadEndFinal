@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: c329562cd384d0f45a3cfc9a1b45952f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: whiskey_fragments
+    100004: WhiskeyBottle
+    100006: WhiskeyFragment
+    100008: WhiskeyFragment1
+    100010: WhiskeyFragment10
+    100012: WhiskeyFragment11
+    100014: WhiskeyFragment12
+    100016: WhiskeyFragment2
+    100018: WhiskeyFragment3
+    100020: WhiskeyFragment4
+    100022: WhiskeyFragment5
+    100024: WhiskeyFragment6
+    100026: WhiskeyFragment7
+    100028: WhiskeyFragment8
+    100030: WhiskeyFragment9
+    400000: //RootNode
+    400002: whiskey_fragments
+    400004: WhiskeyBottle
+    400006: WhiskeyFragment
+    400008: WhiskeyFragment1
+    400010: WhiskeyFragment10
+    400012: WhiskeyFragment11
+    400014: WhiskeyFragment12
+    400016: WhiskeyFragment2
+    400018: WhiskeyFragment3
+    400020: WhiskeyFragment4
+    400022: WhiskeyFragment5
+    400024: WhiskeyFragment6
+    400026: WhiskeyFragment7
+    400028: WhiskeyFragment8
+    400030: WhiskeyFragment9
+    2300000: WhiskeyBottle
+    2300002: WhiskeyFragment
+    2300004: WhiskeyFragment1
+    2300006: WhiskeyFragment10
+    2300008: WhiskeyFragment11
+    2300010: WhiskeyFragment12
+    2300012: WhiskeyFragment2
+    2300014: WhiskeyFragment3
+    2300016: WhiskeyFragment4
+    2300018: WhiskeyFragment5
+    2300020: WhiskeyFragment6
+    2300022: WhiskeyFragment7
+    2300024: WhiskeyFragment8
+    2300026: WhiskeyFragment9
+    3300000: WhiskeyBottle
+    3300002: WhiskeyFragment
+    3300004: WhiskeyFragment1
+    3300006: WhiskeyFragment10
+    3300008: WhiskeyFragment11
+    3300010: WhiskeyFragment12
+    3300012: WhiskeyFragment2
+    3300014: WhiskeyFragment3
+    3300016: WhiskeyFragment4
+    3300018: WhiskeyFragment5
+    3300020: WhiskeyFragment6
+    3300022: WhiskeyFragment7
+    3300024: WhiskeyFragment8
+    3300026: WhiskeyFragment9
+    4300000: WhiskeyBottle
+    4300002: WhiskeyFragment
+    4300004: WhiskeyFragment1
+    4300006: WhiskeyFragment2
+    4300008: WhiskeyFragment3
+    4300010: WhiskeyFragment4
+    4300012: WhiskeyFragment5
+    4300014: WhiskeyFragment6
+    4300016: WhiskeyFragment7
+    4300018: WhiskeyFragment8
+    4300020: WhiskeyFragment9
+    4300022: WhiskeyFragment10
+    4300024: WhiskeyFragment11
+    4300026: WhiskeyFragment12
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

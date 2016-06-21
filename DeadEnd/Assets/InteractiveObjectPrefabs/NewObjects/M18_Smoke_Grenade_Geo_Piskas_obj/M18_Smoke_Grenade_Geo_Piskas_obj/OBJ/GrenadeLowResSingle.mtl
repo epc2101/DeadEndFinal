@@ -1,0 +1,34 @@
+newmtl M18_Smoke_Grenade:High_Poly_2048
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd M18_DIFF_2048.jpg
+map_Ka M18_DIFF_2048.jpg
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 18.00
+newmtl M18_Smoke_Grenade:Material__1
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.37 0.37 0.37
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl M18_Smoke_Grenade:Material__12
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.40 0.40 0.40
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl M18_Smoke_Grenade:wire_227153153
+illum 4
+Kd 0.89 0.60 0.60
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
