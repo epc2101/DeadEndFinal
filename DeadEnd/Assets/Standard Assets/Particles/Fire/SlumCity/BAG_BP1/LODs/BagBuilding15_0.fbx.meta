@@ -1,0 +1,85 @@
+fileFormatVersion: 2
+guid: b674244b6e6667f4093fe32585211a3c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BoxMain0
+    100004: BoxMainA0
+    100006: BoxMainFlip0
+    100008: BoxMainFlipA0
+    100010: Roof0
+    400000: //RootNode
+    400002: BoxMain0
+    400004: BoxMainA0
+    400006: BoxMainFlip0
+    400008: BoxMainFlipA0
+    400010: Roof0
+    2300000: BoxMain0
+    2300002: BoxMainA0
+    2300004: BoxMainFlip0
+    2300006: BoxMainFlipA0
+    2300008: Roof0
+    3300000: BoxMain0
+    3300002: BoxMainA0
+    3300004: BoxMainFlip0
+    3300006: BoxMainFlipA0
+    3300008: Roof0
+    4300000: BoxMain0
+    4300002: BoxMainFlip0
+    4300004: Roof0
+    4300006: BoxMainA0
+    4300008: BoxMainFlipA0
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .800000012
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

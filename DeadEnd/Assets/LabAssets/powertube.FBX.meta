@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: af0d36a1ddce8c84a9fca12a86701a88
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Camera001
+    100002: Camera001.Target
+    100004: matte plane
+    100006: //RootNode
+    100008: Powertube_body
+    100010: powertube_cable
+    100012: Powertube_flash
+    100014: Powertube_flashbulb
+    100016: Powertube_flashcover
+    100018: Powertube_iphoneport
+    100020: Powertube_jack
+    100022: Powertube_led lamp
+    100024: Powertube_ledcover
+    100026: Powertube_powersocket
+    100028: Powertube_switch
+    100030: Powertube_usbsocket
+    400000: Camera001
+    400002: Camera001.Target
+    400004: matte plane
+    400006: //RootNode
+    400008: Powertube_body
+    400010: powertube_cable
+    400012: Powertube_flash
+    400014: Powertube_flashbulb
+    400016: Powertube_flashcover
+    400018: Powertube_iphoneport
+    400020: Powertube_jack
+    400022: Powertube_led lamp
+    400024: Powertube_ledcover
+    400026: Powertube_powersocket
+    400028: Powertube_switch
+    400030: Powertube_usbsocket
+    2300000: matte plane
+    2300002: Powertube_body
+    2300004: powertube_cable
+    2300006: Powertube_flash
+    2300008: Powertube_flashbulb
+    2300010: Powertube_flashcover
+    2300012: Powertube_iphoneport
+    2300014: Powertube_jack
+    2300016: Powertube_led lamp
+    2300018: Powertube_ledcover
+    2300020: Powertube_powersocket
+    2300022: Powertube_switch
+    2300024: Powertube_usbsocket
+    3300000: matte plane
+    3300002: Powertube_body
+    3300004: powertube_cable
+    3300006: Powertube_flash
+    3300008: Powertube_flashbulb
+    3300010: Powertube_flashcover
+    3300012: Powertube_iphoneport
+    3300014: Powertube_jack
+    3300016: Powertube_led lamp
+    3300018: Powertube_ledcover
+    3300020: Powertube_powersocket
+    3300022: Powertube_switch
+    3300024: Powertube_usbsocket
+    4300000: Powertube_switch
+    4300002: Powertube_body
+    4300004: Powertube_flashbulb
+    4300006: Powertube_flash
+    4300008: Powertube_flashcover
+    4300010: Powertube_led lamp
+    4300012: Powertube_ledcover
+    4300014: Powertube_iphoneport
+    4300016: Powertube_jack
+    4300018: Powertube_powersocket
+    4300020: Powertube_usbsocket
+    4300022: powertube_cable
+    4300024: matte plane
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
